@@ -1,0 +1,62 @@
+
+body{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color:background-color: #be36d6;
+    background-image: linear-gradient(62deg, #be36d6 0%, #E0C3FC 52%);
+}
+
+
+h2{
+    border: 5px solid rgba(99, 64, 151, 0.807);
+    text-align: center; 
+    line-height: 4rem;
+    text-shadow: 0 0 10px rgb(59, 3, 108);
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+p{
+    font-weight: bold;
+}
+
+img{
+    border-radius: 50px;
+    float: inherit;
+}
+
+ol li{
+    color:rgb(204, 33, 167)
+}
+
+blockquote{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+a:visited {
+    color:cornsilk
+}
+
+h3{ border: 10px dotted rgba(49, 36, 40, 0.708);
+    text-align: center; 
+    line-height: 4rem;
+    text-shadow: 0 0 10px rgb(195, 22, 160);
+}
+
+a{
+    font-size: 40px;
+}
+a:link {
+    color:aquamarine;
+}
+
+a:hover{
+    font-weight: bold;
+    color:chocolate
+}
+
+a:active{
+    color:green;
+}
+
+a:focus{
+    background-color: blueviolet;
+}
